@@ -11,7 +11,7 @@
 - running.ui → running.py → (Func) RunningWindow.py
 - illustrate.ui → illustrate.py →(Func) IllustrateWindow.py 
 - controller.py : 控制跳轉頁面
-- start.py : 開啟城市
+- start.py : 開啟程式
 
 已利用pyinstaller打包成.exe 在 dist 中，命名為start.py
 
