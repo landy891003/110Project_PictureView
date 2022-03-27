@@ -1,5 +1,11 @@
 # 110Project_PictureView
 
+使用:
+ - PyQt5  
+ - PIL
+ - opencv
+
+
 檔案架構:
 - main.ui → main.py → (Func) MainWindow.py
 - running.ui → running.py → (Func) RunningWindow.py
