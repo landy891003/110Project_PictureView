@@ -5,6 +5,7 @@
  - PIL
  - opencv
 
+教學參考:https://www.wongwonggoods.com/python/pyqt5-1/
 
 檔案架構:
 - main.ui → main.py → (Func) MainWindow.py
